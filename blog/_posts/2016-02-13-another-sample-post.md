@@ -1,6 +1,7 @@
 ---
 layout: post
-title:  A Sample Post 13
+title: A Sample Post 13
+published: true
 ---
 <iframe width="560" height="315" src="https://www.youtube.com/embed/I5AFdII-te8" frameborder="0" allowfullscreen></iframe>
 
