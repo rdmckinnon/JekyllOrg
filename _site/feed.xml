@@ -1,23 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>JekyllOrg</title>
-    <description>a free Jekyll theme for organizations and non-profits</description>
+    <title>His Hands To Yours</title>
+    <description>Begin to understand the Joy that comes from Biblical Generosity</description>
     <link>https://damianeoloan.github.io/JekyllOrg/</link>
     <atom:link href="https://damianeoloan.github.io/JekyllOrg/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 19 Apr 2016 10:34:57 +0300</pubDate>
-    <lastBuildDate>Tue, 19 Apr 2016 10:34:57 +0300</lastBuildDate>
-    <generator>Jekyll v3.0.3</generator>
+    <pubDate>Thu, 05 May 2016 11:16:36 -0400</pubDate>
+    <lastBuildDate>Thu, 05 May 2016 11:16:36 -0400</lastBuildDate>
+    <generator>Jekyll v3.0.5</generator>
     
       <item>
-        <title>Welcome to JekyllOrg</title>
-        <description>&lt;p&gt;JekyllOrg enables organizations and non-profits to easily create their own website at zero cost.&lt;/p&gt;
+        <title>Welcome to His Hands To Yours</title>
+        <description>&lt;p&gt;Our goal is to enable people to anonymously demonstrate biblical generosity by providing financial assistance to others throughout the course of their daily lives.&lt;/p&gt;
 
-&lt;p&gt;By simply copying this site and replacing a few lines in a few files you’ll make it your own. Have a look around and see if it meets your needs - if you have any feedback or requests, feel free to &lt;a href=&quot;&amp;#109;&amp;#097;&amp;#105;&amp;#108;&amp;#116;&amp;#111;:&amp;#100;&amp;#097;&amp;#109;&amp;#105;&amp;#097;&amp;#110;&amp;#111;&amp;#108;&amp;#111;&amp;#097;&amp;#110;&amp;#048;&amp;#064;&amp;#103;&amp;#109;&amp;#097;&amp;#105;&amp;#108;&amp;#046;&amp;#099;&amp;#111;&amp;#109;&amp;#063;&amp;#115;&amp;#117;&amp;#098;&amp;#106;&amp;#101;&amp;#099;&amp;#116;&amp;#061;&amp;#074;&amp;#101;&amp;#107;&amp;#121;&amp;#108;&amp;#108;&amp;#079;&amp;#114;&amp;#103;&amp;#032;&amp;#070;&amp;#101;&amp;#101;&amp;#100;&amp;#098;&amp;#097;&amp;#099;&amp;#107;&quot;&gt;get in touch&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;By simply copying this site and replacing a few lines in a few files you’ll make it your own. Have a look around and see if it meets your needs - if you have any feedback or requests, feel free to &lt;a href=&quot;&amp;#109;&amp;#097;&amp;#105;&amp;#108;&amp;#116;&amp;#111;:&amp;#104;&amp;#105;&amp;#064;&amp;#104;&amp;#105;&amp;#115;&amp;#104;&amp;#097;&amp;#110;&amp;#100;&amp;#115;&amp;#116;&amp;#111;&amp;#121;&amp;#111;&amp;#117;&amp;#114;&amp;#115;&amp;#046;&amp;#111;&amp;#114;&amp;#103;&amp;#063;&amp;#115;&amp;#117;&amp;#098;&amp;#106;&amp;#101;&amp;#099;&amp;#116;&amp;#061;&amp;#072;&amp;#105;&amp;#115;&amp;#032;&amp;#072;&amp;#097;&amp;#110;&amp;#100;&amp;#115;&amp;#032;&amp;#084;&amp;#111;&amp;#032;&amp;#089;&amp;#111;&amp;#117;&amp;#114;&amp;#115;&amp;#032;&amp;#070;&amp;#101;&amp;#101;&amp;#100;&amp;#098;&amp;#097;&amp;#099;&amp;#107;&quot;&gt;get in touch&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;Otherwise, grab a coffee and learn &lt;a href=&quot;/JekyllOrg/news/setup/&quot;&gt;how to set up your website&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;2 Corinthians 9:7&lt;/p&gt;
+
+&lt;p&gt;Each of you should give what you have decided in your heart to give, not reluctantly or under compulsion, for God loves a cheerful giver.&lt;/p&gt;
 </description>
-        <pubDate>Tue, 01 Mar 2016 00:00:00 +0200</pubDate>
+        <pubDate>Thu, 05 May 2016 00:00:00 -0400</pubDate>
         <link>https://damianeoloan.github.io/JekyllOrg/news/welcome-to-jekyll/</link>
         <guid isPermaLink="true">https://damianeoloan.github.io/JekyllOrg/news/welcome-to-jekyll/</guid>
         
@@ -254,7 +256,7 @@
 
 &lt;p&gt;Again, if you have any questions during configuration or if you’d like a custom version of JekyllOrg for your organization, feel free to &lt;a href=&quot;&amp;#109;&amp;#097;&amp;#105;&amp;#108;&amp;#116;&amp;#111;:&amp;#100;&amp;#097;&amp;#109;&amp;#105;&amp;#097;&amp;#110;&amp;#111;&amp;#108;&amp;#111;&amp;#097;&amp;#110;&amp;#048;&amp;#064;&amp;#103;&amp;#109;&amp;#097;&amp;#105;&amp;#108;&amp;#046;&amp;#099;&amp;#111;&amp;#109;&amp;#063;&amp;#115;&amp;#117;&amp;#098;&amp;#106;&amp;#101;&amp;#099;&amp;#116;&amp;#061;&amp;#074;&amp;#101;&amp;#107;&amp;#121;&amp;#108;&amp;#108;&amp;#079;&amp;#114;&amp;#103;&amp;#032;&amp;#069;&amp;#110;&amp;#113;&amp;#117;&amp;#105;&amp;#114;&amp;#121;&quot;&gt;send an email&lt;/a&gt;.&lt;/p&gt;
 </description>
-        <pubDate>Mon, 15 Feb 2016 00:00:00 +0200</pubDate>
+        <pubDate>Mon, 15 Feb 2016 00:00:00 -0500</pubDate>
         <link>https://damianeoloan.github.io/JekyllOrg/news/setup/</link>
         <guid isPermaLink="true">https://damianeoloan.github.io/JekyllOrg/news/setup/</guid>
         
@@ -331,7 +333,7 @@
 
 &lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;%&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;err&quot;&gt;for&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;err&quot;&gt;cat&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;err&quot;&gt;in&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;err&quot;&gt;site.cats&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;err&quot;&gt;%&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;/code&gt;&lt;/p&gt;
 </description>
-        <pubDate>Sun, 14 Feb 2016 00:00:00 +0200</pubDate>
+        <pubDate>Sun, 14 Feb 2016 00:00:00 -0500</pubDate>
         <link>https://damianeoloan.github.io/JekyllOrg/news/a-post-style-guide/</link>
         <guid isPermaLink="true">https://damianeoloan.github.io/JekyllOrg/news/a-post-style-guide/</guid>
         
@@ -346,7 +348,7 @@
 
 &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec a diam lectus. Sed sit amet ipsum mauris. Maecenas congue ligula ac quam viverra nec consectetur ante hendrerit. Donec et mollis dolor. Praesent et diam eget libero egestas mattis sit amet vitae augue. Nam tincidunt congue enim, ut porta lorem lacinia consectetur. Donec ut libero sed arcu vehicula ultricies a non tortor. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean ut gravida lorem. Ut turpis felis, pulvinar a semper sed, adipiscing id dolor. Pellentesque auctor nisi id magna consequat sagittis. Curabitur dapibus enim sit amet elit pharetra tincidunt feugiat nisl imperdiet. Ut convallis libero in urna ultrices accumsan. Donec sed odio eros. Donec viverra mi quis quam pulvinar at malesuada arcu rhoncus. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. In rutrum accumsan ultricies. Mauris vitae nisi at sem facilisis semper ac in est.&lt;/p&gt;
 </description>
-        <pubDate>Sat, 13 Feb 2016 00:00:00 +0200</pubDate>
+        <pubDate>Sat, 13 Feb 2016 00:00:00 -0500</pubDate>
         <link>https://damianeoloan.github.io/JekyllOrg/news/another-sample-post/</link>
         <guid isPermaLink="true">https://damianeoloan.github.io/JekyllOrg/news/another-sample-post/</guid>
         
@@ -359,7 +361,7 @@
         <title>A Sample Post 12</title>
         <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec a diam lectus. Sed sit amet ipsum mauris. Maecenas congue ligula ac quam viverra nec consectetur ante hendrerit. Donec et mollis dolor. Praesent et diam eget libero egestas mattis sit amet vitae augue. Nam tincidunt congue enim, ut porta lorem lacinia consectetur. Donec ut libero sed arcu vehicula ultricies a non tortor. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean ut gravida lorem. Ut turpis felis, pulvinar a semper sed, adipiscing id dolor. Pellentesque auctor nisi id magna consequat sagittis. Curabitur dapibus enim sit amet elit pharetra tincidunt feugiat nisl imperdiet. Ut convallis libero in urna ultrices accumsan. Donec sed odio eros. Donec viverra mi quis quam pulvinar at malesuada arcu rhoncus. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. In rutrum accumsan ultricies. Mauris vitae nisi at sem facilisis semper ac in est.&lt;/p&gt;
 </description>
-        <pubDate>Fri, 12 Feb 2016 00:00:00 +0200</pubDate>
+        <pubDate>Fri, 12 Feb 2016 00:00:00 -0500</pubDate>
         <link>https://damianeoloan.github.io/JekyllOrg/news/another-sample-post/</link>
         <guid isPermaLink="true">https://damianeoloan.github.io/JekyllOrg/news/another-sample-post/</guid>
         
@@ -372,7 +374,7 @@
         <title>A Sample Post 11</title>
         <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec a diam lectus. Sed sit amet ipsum mauris. Maecenas congue ligula ac quam viverra nec consectetur ante hendrerit. Donec et mollis dolor. Praesent et diam eget libero egestas mattis sit amet vitae augue. Nam tincidunt congue enim, ut porta lorem lacinia consectetur. Donec ut libero sed arcu vehicula ultricies a non tortor. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean ut gravida lorem. Ut turpis felis, pulvinar a semper sed, adipiscing id dolor. Pellentesque auctor nisi id magna consequat sagittis. Curabitur dapibus enim sit amet elit pharetra tincidunt feugiat nisl imperdiet. Ut convallis libero in urna ultrices accumsan. Donec sed odio eros. Donec viverra mi quis quam pulvinar at malesuada arcu rhoncus. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. In rutrum accumsan ultricies. Mauris vitae nisi at sem facilisis semper ac in est.&lt;/p&gt;
 </description>
-        <pubDate>Thu, 11 Feb 2016 00:00:00 +0200</pubDate>
+        <pubDate>Thu, 11 Feb 2016 00:00:00 -0500</pubDate>
         <link>https://damianeoloan.github.io/JekyllOrg/news/another-sample-post/</link>
         <guid isPermaLink="true">https://damianeoloan.github.io/JekyllOrg/news/another-sample-post/</guid>
         
@@ -385,7 +387,7 @@
         <title>A Sample Post 10</title>
         <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec a diam lectus. Sed sit amet ipsum mauris. Maecenas congue ligula ac quam viverra nec consectetur ante hendrerit. Donec et mollis dolor. Praesent et diam eget libero egestas mattis sit amet vitae augue. Nam tincidunt congue enim, ut porta lorem lacinia consectetur. Donec ut libero sed arcu vehicula ultricies a non tortor. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean ut gravida lorem. Ut turpis felis, pulvinar a semper sed, adipiscing id dolor. Pellentesque auctor nisi id magna consequat sagittis. Curabitur dapibus enim sit amet elit pharetra tincidunt feugiat nisl imperdiet. Ut convallis libero in urna ultrices accumsan. Donec sed odio eros. Donec viverra mi quis quam pulvinar at malesuada arcu rhoncus. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. In rutrum accumsan ultricies. Mauris vitae nisi at sem facilisis semper ac in est.&lt;/p&gt;
 </description>
-        <pubDate>Wed, 10 Feb 2016 00:00:00 +0200</pubDate>
+        <pubDate>Wed, 10 Feb 2016 00:00:00 -0500</pubDate>
         <link>https://damianeoloan.github.io/JekyllOrg/news/another-sample-post/</link>
         <guid isPermaLink="true">https://damianeoloan.github.io/JekyllOrg/news/another-sample-post/</guid>
         
@@ -398,7 +400,7 @@
         <title>A Sample Post 9</title>
         <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec a diam lectus. Sed sit amet ipsum mauris. Maecenas congue ligula ac quam viverra nec consectetur ante hendrerit. Donec et mollis dolor. Praesent et diam eget libero egestas mattis sit amet vitae augue. Nam tincidunt congue enim, ut porta lorem lacinia consectetur. Donec ut libero sed arcu vehicula ultricies a non tortor. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean ut gravida lorem. Ut turpis felis, pulvinar a semper sed, adipiscing id dolor. Pellentesque auctor nisi id magna consequat sagittis. Curabitur dapibus enim sit amet elit pharetra tincidunt feugiat nisl imperdiet. Ut convallis libero in urna ultrices accumsan. Donec sed odio eros. Donec viverra mi quis quam pulvinar at malesuada arcu rhoncus. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. In rutrum accumsan ultricies. Mauris vitae nisi at sem facilisis semper ac in est.&lt;/p&gt;
 </description>
-        <pubDate>Tue, 09 Feb 2016 00:00:00 +0200</pubDate>
+        <pubDate>Tue, 09 Feb 2016 00:00:00 -0500</pubDate>
         <link>https://damianeoloan.github.io/JekyllOrg/news/another-sample-post/</link>
         <guid isPermaLink="true">https://damianeoloan.github.io/JekyllOrg/news/another-sample-post/</guid>
         
@@ -411,7 +413,7 @@
         <title>A Sample Post 8</title>
         <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec a diam lectus. Sed sit amet ipsum mauris. Maecenas congue ligula ac quam viverra nec consectetur ante hendrerit. Donec et mollis dolor. Praesent et diam eget libero egestas mattis sit amet vitae augue. Nam tincidunt congue enim, ut porta lorem lacinia consectetur. Donec ut libero sed arcu vehicula ultricies a non tortor. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean ut gravida lorem. Ut turpis felis, pulvinar a semper sed, adipiscing id dolor. Pellentesque auctor nisi id magna consequat sagittis. Curabitur dapibus enim sit amet elit pharetra tincidunt feugiat nisl imperdiet. Ut convallis libero in urna ultrices accumsan. Donec sed odio eros. Donec viverra mi quis quam pulvinar at malesuada arcu rhoncus. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. In rutrum accumsan ultricies. Mauris vitae nisi at sem facilisis semper ac in est.&lt;/p&gt;
 </description>
-        <pubDate>Mon, 08 Feb 2016 00:00:00 +0200</pubDate>
+        <pubDate>Mon, 08 Feb 2016 00:00:00 -0500</pubDate>
         <link>https://damianeoloan.github.io/JekyllOrg/news/another-sample-post/</link>
         <guid isPermaLink="true">https://damianeoloan.github.io/JekyllOrg/news/another-sample-post/</guid>
         
@@ -424,7 +426,7 @@
         <title>A Sample Post 7</title>
         <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec a diam lectus. Sed sit amet ipsum mauris. Maecenas congue ligula ac quam viverra nec consectetur ante hendrerit. Donec et mollis dolor. Praesent et diam eget libero egestas mattis sit amet vitae augue. Nam tincidunt congue enim, ut porta lorem lacinia consectetur. Donec ut libero sed arcu vehicula ultricies a non tortor. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean ut gravida lorem. Ut turpis felis, pulvinar a semper sed, adipiscing id dolor. Pellentesque auctor nisi id magna consequat sagittis. Curabitur dapibus enim sit amet elit pharetra tincidunt feugiat nisl imperdiet. Ut convallis libero in urna ultrices accumsan. Donec sed odio eros. Donec viverra mi quis quam pulvinar at malesuada arcu rhoncus. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. In rutrum accumsan ultricies. Mauris vitae nisi at sem facilisis semper ac in est.&lt;/p&gt;
 </description>
-        <pubDate>Sun, 07 Feb 2016 00:00:00 +0200</pubDate>
+        <pubDate>Sun, 07 Feb 2016 00:00:00 -0500</pubDate>
         <link>https://damianeoloan.github.io/JekyllOrg/news/another-sample-post/</link>
         <guid isPermaLink="true">https://damianeoloan.github.io/JekyllOrg/news/another-sample-post/</guid>
         

@@ -1,10 +1,12 @@
 ---
 layout: post
-title:  "Welcome to JekyllOrg"
-date:   2016-03-01
+title:  "Welcome to His Hands To Yours"
+date:   2016-05-05
 ---
-JekyllOrg enables organizations and non-profits to easily create their own website at zero cost.
+Our goal is to enable people to anonymously demonstrate biblical generosity by providing financial assistance to others throughout the course of their daily lives.
 
-By simply copying this site and replacing a few lines in a few files you'll make it your own. Have a look around and see if it meets your needs - if you have any feedback or requests, feel free to [get in touch](mailto:damianoloan0@gmail.com?subject=JekyllOrg Feedback).
+By simply copying this site and replacing a few lines in a few files you'll make it your own. Have a look around and see if it meets your needs - if you have any feedback or requests, feel free to [get in touch](mailto:hi@hishandstoyours.org?subject=His Hands To Yours Feedback).
 
-Otherwise, grab a coffee and learn [how to set up your website](/JekyllOrg/news/setup/).
+2 Corinthians 9:7
+
+Each of you should give what you have decided in your heart to give, not reluctantly or under compulsion, for God loves a cheerful giver.
